@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <SP_CustomShipping>
+            <active>true</active>
+            <codePool>local</codePool>
+        </SP_CustomShipping>
+    </modules>
+</config>
